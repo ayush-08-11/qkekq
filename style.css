@@ -1,0 +1,67 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.header{
+    color: #ffffff;
+    text-align: center;
+}
+.head{
+    color: #ffffff;
+    text-align: center;
+}
+.example{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+a{
+ background: #ffffff;
+ padding: 10px 25px;
+ color: #000000;
+ text-decoration: none;
+ position: absolute;
+ left: 1195px;
+ right: 10px;
+ top: 617px;
+}
+.fbtitle{
+    position: absolute;
+    left: 65px;
+    top: 612px; 
+}
+.scooter{
+    position: absolute;
+    left: 250px;
+    top: 525px; 
+}
+.star{
+    position: absolute;
+    left: 420px;
+    top: 525px; 
+}
+.dress{
+    position: absolute;
+    left: 590px;
+    top: 525px; 
+}
+.frog{
+    position: absolute;
+    left: 760px;
+    top: 525px;  
+}
+.eagle{
+    position: absolute;
+    left: 929px;
+    top: 525px;  
+}
+.faceb{
+    position: absolute;
+    left: -1220px;
+    top: -27px;
+}
+.ayush{
+    position: absolute;
+    left: 490px;
+    top: 177px;
+}

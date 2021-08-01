@@ -1,0 +1,59 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h2{
+    color: #ffffff;
+    text-align: center;
+}
+.boat{
+    position: absolute;
+    left: 50px;
+    top: 80px;
+}
+.p1{
+    color: #ffffff;
+    position: absolute;
+    left: 800px;
+    top: 68px;
+}
+.p2{
+    color: #ffffff;
+    position: absolute;
+    left: 450px;
+    top: 91px;
+}
+.p3{
+    color: #ffffff;
+    position: absolute;
+    left: 50px;
+    top: 300px;
+}
+.p4{
+    color: #ffffff;
+    position: absolute;
+    left: 430px;
+    top: 500px;
+}
+.p5{
+    color: #ffffff;
+    position: absolute;
+    left: 770px;
+    top: 477px;
+}
+.p6{
+    color: #ffffff;
+    position: absolute;
+    left: 420px;
+    top: 277px;
+}
+.dina{
+    position: absolute;
+    left: 1020px;
+    top: 280px;
+}
+.ghost{
+    position: absolute;
+    left: 50px;
+    top: 480px;
+}
